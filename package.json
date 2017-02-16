@@ -13,6 +13,9 @@
   },
   "author": "AZ",
   "license": "MIT",
+  "engines": {
+    "node": "6.9.5"
+  },
   "dependencies": {
     "good": "^7.1.0",
     "good-console": "^6.4.0",
